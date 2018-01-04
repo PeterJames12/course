@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: com.j256.ormlite:ormlite-jdbc:5.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/j256/ormlite/ormlite-jdbc/5.0/ormlite-jdbc-5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
